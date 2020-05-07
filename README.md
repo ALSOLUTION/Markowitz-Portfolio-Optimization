@@ -22,3 +22,4 @@ There are a few underlying concepts that can help anyone to understand MPT. If y
 Higher risk is associated with greater probability of higher return and lower risk with a greater probability of smaller return. MPT assumes that investors are risk-averse, meaning that given two portfolios that offer the same expected return, investors will prefer the less risky one. Thus, an investor will take on increased risk only if compensated by higher expected returns.
 
 
+I have explained further in the code as we proceed further. 
